@@ -1,9 +1,10 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
 resources:
 - deployment.yaml
 - service.yaml
 - route.yaml
-apiVersion: kustomize.config.k8s.io/v1beta1
-kind: Kustomization
+images:
 - digest: sha256:2b1204bb6e3715ee92c2d51b5b282f9f89da5e16b1fbcb3a8fd32fd96e254544
   name: quay.io/monishkumar/project-demo
   newName: quay.io/monishkumar/project-demo
