@@ -6,3 +6,6 @@ images:
 - digest: sha256:6272f34e4580b610170d78c38cb2cd98741535b1728f78205f2c84700414f539
   name: quay.io/monishkumar/project-demo
   newName: quay.io/monishkumar/project-demo
+- digest: sha256:2b1204bb6e3715ee92c2d51b5b282f9f89da5e16b1fbcb3a8fd32fd96e254544
+  name: quay.io/monishkumar/project-demo:latest
+  newName: quay.io/monishkumar/project-demo
