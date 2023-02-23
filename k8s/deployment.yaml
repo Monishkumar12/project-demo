@@ -15,7 +15,7 @@ spec:
         app: webapp
     spec:
       containers:
-        - image: quay.io/monishkumar/project-demo:latest
+        - image: quay.io/monishkumar/project-demo
           imagePullPolicy: Always
           name: webapp
           ports:
