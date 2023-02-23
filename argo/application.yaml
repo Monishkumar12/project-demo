@@ -1,0 +1,20 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: dev
+  namespace: ci-cd-demo
+spec:
+  destination:
+    namespace: project-demo1
+    server: https://api.cluster-6xx4b.6xx4b.sandbox2311.opentlc.com:6443 
+  project: default 
+  source: 
+    path: k8s
+    repoURL: https://github.com/Monishkumar12/project-demo.git
+    targetRevision: ansible-sonar
+  syncPolicy: 
+    automated:
+      prune: true
+      selfHeal: false
+    syncOptions:
+    - CreateNamespace=true
