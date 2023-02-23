@@ -3,9 +3,6 @@ kind: Kustomization
 resources:
 - ../../k8s/
 images:
-- digest: sha256:096b5d6454e2f7696908e36abd34f8d91dde780c926158b719e08ca465fd0522
-  name: quay.io/monishkumar/project-demo
-  newName: quay.io/monishkumar/project-demo
 - digest: sha256:6272f34e4580b610170d78c38cb2cd98741535b1728f78205f2c84700414f539
-  name: quay.io/monishkumar/project-demo:latest
+  name: quay.io/monishkumar/project-demo
   newName: quay.io/monishkumar/project-demo
