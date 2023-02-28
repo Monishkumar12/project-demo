@@ -41,9 +41,9 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-ci-cd-demo.apps.cluster-6xx4b.6xx4b.sandbox2311.opentlc.com/</sonar.host.url>
-	             <sonar.login>sqa_e6f2cf7d72831ea1df8d1a16d01f1d82b60d30e4</sonar.login>
-               <sonar.projectName>demo-project</sonar.projectName>
+               <sonar.host.url>https://sonar-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/</sonar.host.url>
+	        <sonar.login>sqa_f0cd897f0789c4025e041c86dc89a07f46e8b226</sonar.login>
+               <sonar.projectName>project-demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
                <sonar.exclusions>**/ai/**/*.*,**/jdbc/**/*.*,**/mpt/**/*.*,**/jcr/**/*.*,**/JDBC*</sonar.exclusions>
@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
-      <url>http://nexus-ci-cd-demo.apps.cluster-6xx4b.6xx4b.sandbox2311.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/repository/project-demo/</url>
     </snapshotRepository>
 	<repository>
 	  <id>project-demo</id>
-      <url>http://nexus-ci-cd-demo.apps.cluster-6xx4b.6xx4b.sandbox2311.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/repository/project-demo/</url>
     </repository>
   
   </distributionManagement>
