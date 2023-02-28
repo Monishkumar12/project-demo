@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>This the Template for Boot-strapp</title>
+    <title> The Template for Boot-strapp</title>
 
 
     <!-- Custom styles for this template -->
