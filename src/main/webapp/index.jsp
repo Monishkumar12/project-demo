@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>This is The Template for Boot-strapp</title>
+    <title>Happy-Holiiiii</title>
 
 
     <!-- Custom styles for this template -->
