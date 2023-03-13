@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-vw9mz.vw9mz.sandbox1123.opentlc.com/repository/project-demo/</url>
     </snapshotRepository>
 	<repository>
 	  <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-vw9mz.vw9mz.sandbox1123.opentlc.com/repository/project-demo/</url>
     </repository>
   
   </distributionManagement>
