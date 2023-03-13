@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/</sonar.host.url>
-	        <sonar.login>sqa_25d9a4e17f8abccc91f9e3fc04ed5ce57dd67d5d</sonar.login>
+               <sonar.host.url>https://sonar-project-demo.apps.cluster-vw9mz.vw9mz.sandbox1123.opentlc.com/</sonar.host.url>
+	        <sonar.login>sqa_0b7d5503b63af74ebe608ef7b845562347791db5</sonar.login>
                <sonar.projectName>project-demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
