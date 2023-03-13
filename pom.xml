@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/</sonar.host.url>
-	        <sonar.login>sqa_f0cd897f0789c4025e041c86dc89a07f46e8b226</sonar.login>
+               <sonar.host.url>https://sonar-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/</sonar.host.url>
+	        <sonar.login>sqa_25d9a4e17f8abccc91f9e3fc04ed5ce57dd67d5d</sonar.login>
                <sonar.projectName>project-demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
-      <url>http://nexus-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/repository/project-demo/</url>
     </snapshotRepository>
 	<repository>
 	  <id>project-demo</id>
-      <url>http://nexus-ci-cd-demo.apps.cluster-rc2qg.rc2qg.sandbox1530.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-nnzcb.nnzcb.sandbox999.opentlc.com/repository/project-demo/</url>
     </repository>
   
   </distributionManagement>
