@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Happy-Holiiiiii</title>
+    <title>Happy-Holii</title>
 
 
     <!-- Custom styles for this template -->
