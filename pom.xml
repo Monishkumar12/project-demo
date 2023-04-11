@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-project-demo.apps.ocp4.imss.com</sonar.host.url>
-	        <sonar.login>sqa_c2febf707dcef23a2edd1e89b55bbfe8c524d314</sonar.login>
+               <sonar.host.url>https://sonar-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/</sonar.host.url>
+	        <sonar.login>sqa_4fd87ef8b284cb9f03b17e15a53fcd0703404cb4</sonar.login>
                <sonar.projectName>project-demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.ocp4.imss.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
     </snapshotRepository>
 	<repository>
 	  <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.ocp4.imss.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
     </repository>
   
   </distributionManagement>
