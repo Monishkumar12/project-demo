@@ -7,7 +7,7 @@
   <proxies></proxies>
   <servers>
     <server>
-      <id>project-demo</id>
+      <id>project-demo1</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
@@ -31,12 +31,12 @@
       
     </profile>
         <profile>
-     <id>snapshot</id>
+     <id>mixed</id>
      <repositories>
        <repository>
-         <id>project-demo</id>
+         <id>project-demo1</id>
          <name>your custom repo</name>
-         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
+         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
        </repository>      
      </repositories>
           
@@ -45,9 +45,9 @@
      <id>release</id>
      <repositories>
        <repository>
-         <id>project-demo</id>
+         <id>project-demo1</id>
          <name>your custom repo</name>
-         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
+         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
        </repository>
      </repositories>
    </profile>
