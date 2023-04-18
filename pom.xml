@@ -54,12 +54,12 @@
 	
 	<distributionManagement>
     <snapshotRepository>
-      <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
+      <id>project-demo1</id>
+      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
     </snapshotRepository>
 	<repository>
-	  <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo/</url>
+	  <id>project-demo1</id>
+      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
     </repository>
   
   </distributionManagement>
