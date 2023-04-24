@@ -7,7 +7,7 @@
   <proxies></proxies>
   <servers>
     <server>
-      <id>project-demo1</id>
+      <id>project-demo</id>
       <username>admin</username>
       <password>admin123</password>
     </server>
