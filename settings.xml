@@ -16,7 +16,7 @@
     <mirror>
       <id>project-proxy</id>
       <mirrorOf>*</mirrorOf>
-      <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-proxy/</url>
+      <url>http://nexus-project-demo.apps.cluster-vln9p.vln9p.sandbox1647.opentlc.com/repository/project-proxy/</url>
     </mirror>
   </mirrors>
   <profiles>
