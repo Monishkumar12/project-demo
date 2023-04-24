@@ -34,9 +34,9 @@
      <id>mixed</id>
      <repositories>
        <repository>
-         <id>project-demo1</id>
+         <id>project-demo</id>
          <name>your custom repo</name>
-         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
+         <url>http://nexus-project-demo.apps.cluster-vln9p.vln9p.sandbox1647.opentlc.com/repository/project-demo/</url>
        </repository>      
      </repositories>
           
@@ -45,9 +45,9 @@
      <id>release</id>
      <repositories>
        <repository>
-         <id>project-demo1</id>
+         <id>project-demo</id>
          <name>your custom repo</name>
-         <url>http://nexus-project-demo.apps.cluster-xv9t9.xv9t9.sandbox1732.opentlc.com/repository/project-demo1/</url>
+         <url>http://nexus-project-demo.apps.cluster-vln9p.vln9p.sandbox1647.opentlc.com/repository/project-demo/</url>
        </repository>
      </repositories>
    </profile>
