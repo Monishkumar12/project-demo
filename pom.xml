@@ -33,7 +33,7 @@
             </plugins>
         </pluginManagement>
   </build>
-<!--         <profiles>
+        <profiles>
 
           <profile>
             <id>sonar</id>
@@ -49,10 +49,10 @@
                <sonar.exclusions>**/ai/**/*.*,**/jdbc/**/*.*,**/mpt/**/*.*,**/jcr/**/*.*,**/JDBC*</sonar.exclusions>
             </properties>
           </profile>
-        </profiles> -->
+        </profiles>
 	
 	
-<!-- 	<distributionManagement>
+	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
       <url>http://nexus-project-demo.apps.cluster-vln9p.vln9p.sandbox1647.opentlc.com/repository/project-demo/</url>
@@ -62,7 +62,7 @@
       <url>http://nexus-project-demo.apps.cluster-vln9p.vln9p.sandbox1647.opentlc.com/repository/project-demo/</url>
     </repository>
   
-  </distributionManagement> -->
+  </distributionManagement>
  
 
    
