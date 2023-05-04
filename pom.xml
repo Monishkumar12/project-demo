@@ -41,8 +41,8 @@
                 <activeByDefault>true</activeByDefault>
             </activation>
            <properties>
-               <sonar.host.url>https://sonar-project-demo.apps.cluster-zbtcn.zbtcn.sandbox2232.opentlc.com/</sonar.host.url>
-	        <sonar.login>sqa_746b8ba6b1ebcefc2fa3a623caf81227b87577cf</sonar.login>
+               <sonar.host.url>https://sonar-project-demo.apps.cluster-6s7ck.6s7ck.sandbox1034.opentlc.com/</sonar.host.url>
+	        <sonar.login>sqa_b87818cb6b6ed2f1de6ebbc70b25e4f5c6265144</sonar.login>
                <sonar.projectName>project-demo</sonar.projectName>
                <sonar.projectVersion>main</sonar.projectVersion>
                <sonar.test.exclusions>**/test/**/*.*</sonar.test.exclusions>
@@ -55,11 +55,11 @@
 	<distributionManagement>
     <snapshotRepository>
       <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-zbtcn.zbtcn.sandbox2232.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-6s7ck.6s7ck.sandbox1034.opentlc.com/repository/project-demo/</url>
     </snapshotRepository>
 	<repository>
 	  <id>project-demo</id>
-      <url>http://nexus-project-demo.apps.cluster-zbtcn.zbtcn.sandbox2232.opentlc.com/repository/project-demo/</url>
+      <url>http://nexus-project-demo.apps.cluster-6s7ck.6s7ck.sandbox1034.opentlc.com/repository/project-demo/</url>
     </repository>
   
   </distributionManagement>
